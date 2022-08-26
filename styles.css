@@ -59,6 +59,11 @@ header {
 .home {
     background: transparent;
     border-radius: 0px;
+    color: white;
+}
+
+.home:visited {
+    color: white;
 }
 
 a:visited {
