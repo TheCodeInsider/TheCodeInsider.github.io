@@ -62,7 +62,15 @@ header {
     color: white;
 }
 
+a:hover {
+    color: white;
+}
+
 a:active {
+    color: white;
+}
+
+a:link {
     color: white;
 }
 
